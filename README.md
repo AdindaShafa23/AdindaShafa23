@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🔭 Played a Role as Undergraduate Software Engineer at ITS University✨
+🔭 Played a Role as Undergraduate Software Engineer at ITS University✨<br>
 🌱 I’m Currently learning how to train AI models, gaining a deeper understanding of databases, and exploring their structures and functionalities.<br>
 💬 Ask me about BackEnd that will be my best Topic<br>
 ⚡ Fun fact Im still intrested for reaching full stack developer<br>
